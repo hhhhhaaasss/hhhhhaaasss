@@ -8,14 +8,14 @@
 
   🔧 Skills
 
-![Photoshop](img/ps.png) { width: 100px; }
+<img src="/img/ps.png" alt="PS from Freepik" style="width: 100px;"/>
 <img src="/img/ai.png" alt="AI from Freepik" style="width: 100px;"/>
-<img src="hhhhhaaasss/img/pr.png" alt="PR from Freepik"/>
-<img src="hhhhhaaasss/img/ae.png" alt="AE from Freepik"/>
-<img src="hhhhhaaasss/img/id.png" alt="ID from Freepik"/>
-<img src="hhhhhaaasss/img/html.png" alt="HTML from Freepik"/>
-<img src="hhhhhaaasss/img/css.png" alt="CSS from Pixel perfect"/>
-<img src="hhhhhaaasss/img/js.png" alt="JS from Freepik"/>
+<img src="/img/pr.png" alt="PR from Freepik" style="width: 100px;"/>
+<img src="/img/ae.png" alt="AE from Freepik" style="width: 100px;"/>
+<img src="/img/id.png" alt="ID from Freepik" style="width: 100px;"/>
+<img src="/img/html.png" alt="HTML from Freepik" style="width: 100px;"/>
+<img src="/img/css.png" alt="CSS from Pixel perfect" style="width: 100px;"/>
+<img src="/img/js.png" alt="JS from Freepik" style="width: 100px;"/>
 
  <h3> ❤️ I really love to: </h3>
 
