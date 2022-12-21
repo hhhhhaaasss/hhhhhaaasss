@@ -31,8 +31,8 @@ Hello my name is Caio Romano Castro, im currently doing a bachelor of arts in Fr
 
 <h3> 🌎 Where to find me:</h3>
 
-- 🔗 <p href="https://www.linkedin.com/in/caio-romano-castro-5b3499240/">
+- 🔗 <a href="https://www.linkedin.com/in/caio-romano-castro-5b3499240/">Linkendin</a>
 
-- 🔗 <p href="#" alt="My Website>
+- 🔗 <a href="#" alt="My Website>Website</a>
 
-- 🔗 <p href="https://discord.com/users/218303368756592642">
+- 🔗 <a href="https://discord.com/users/218303368756592642">Discord</a>
