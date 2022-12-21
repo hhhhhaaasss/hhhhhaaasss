@@ -8,14 +8,14 @@ Hello my name is Caio Romano Castro, im currently doing a bachelor of arts in Fr
 
   🔧 Skills
 
-<img href="./img/ps.png" alt="PS from Freepik"/>
-<img href="./img/ai.png" alt="AI from Freepik"/>
-<img href="./img/pr.png" alt="PR from Freepik"/>
-<img href="./img/ae.png" alt="AE from Freepik"/>
-<img href="./img/id.png" alt="ID from Freepik"/>
-<img href="./img/html.png" alt="HTML from Freepik"/>
-<img href="./img/css.png" alt="CSS from Pixel perfect"/>
-<img href="./img/js.png" alt="JS from Freepik"/>
+<img src="hhhhhaaasss/img/ps.png" alt="PS from Freepik"/>
+<img src="hhhhhaaasss/img/ai.png" alt="AI from Freepik"/>
+<img src="hhhhhaaasss/img/pr.png" alt="PR from Freepik"/>
+<img src="hhhhhaaasss/img/ae.png" alt="AE from Freepik"/>
+<img src="hhhhhaaasss/img/id.png" alt="ID from Freepik"/>
+<img src="hhhhhaaasss/img/html.png" alt="HTML from Freepik"/>
+<img src="hhhhhaaasss/img/css.png" alt="CSS from Pixel perfect"/>
+<img src="hhhhhaaasss/img/js.png" alt="JS from Freepik"/>
 
  <h3> ❤️ I really love to: </h3>
 
