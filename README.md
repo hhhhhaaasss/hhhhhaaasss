@@ -8,10 +8,10 @@
 
 <h3> 🔧 Skills:</h3>
 
-   <img src="/img/ps.png" alt="PS from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/ai.png" alt="AI from Freepik" style="width: 50px;"/>
-   <img src="/img/pr.png" alt="PR from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/ae.png" alt="AE from Freepik" style="width: 50px;"/>
-   <img src="/img/id.png" alt="ID from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/html.png" alt="HTML from Freepik" style="width: 50px;"/>
-   <img src="/img/css.png" alt="CSS from Pixel perfect" style="width: 50px;"/>&nbsp; <img src="/img/js.png" alt="JS from Freepik" style="width: 50px;"/>
+   <img src="/img/ps.png" alt="PS from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/ai.png" alt="AI from Freepik" style="width: 50px;"/>&nbsp;
+   <img src="/img/pr.png" alt="PR from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/ae.png" alt="AE from Freepik" style="width: 50px;"/>&nbsp;
+   <img src="/img/id.png" alt="ID from Freepik" style="width: 50px;"/>&nbsp; <img src="/img/html.png" alt="HTML from Freepik" style="width: 50px;"/>&nbsp;
+   <img src="/img/css.png" alt="CSS from Pixel perfect" style="width: 50px;"/>&nbsp; <img src="/img/js.png" alt="JS from Freepik" style="width: 50px;"/>&nbsp;
 
  <h3> ❤️ I really love to: </h3>
 
