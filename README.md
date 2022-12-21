@@ -8,7 +8,7 @@
 
   🔧 Skills
 
-![Photoshop](img/ps.png)
+![Photoshop](img/ps.png) { width: 100px; }
 <img src="hhhhhaaasss/img/ai.png" alt="AI from Freepik"/>
 <img src="hhhhhaaasss/img/pr.png" alt="PR from Freepik"/>
 <img src="hhhhhaaasss/img/ae.png" alt="AE from Freepik"/>
