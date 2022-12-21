@@ -8,7 +8,7 @@
 
   🔧 Skills
 
-<img src="hhhhhaaasss/img/ps.png" alt="PS from Freepik"/>
+![Photoshop](img/ps.png)
 <img src="hhhhhaaasss/img/ai.png" alt="AI from Freepik"/>
 <img src="hhhhhaaasss/img/pr.png" alt="PR from Freepik"/>
 <img src="hhhhhaaasss/img/ae.png" alt="AE from Freepik"/>
