@@ -1,10 +1,10 @@
-Hello my name is Caio Romano Castro, im currently doing a bachelor of arts in France, but will soon change to a Computer Science Major, i love programming and have start my adventure in the front end development but plan to work in the cybersecurity department.
+😁Hello my name is Caio Romano Castro, im currently doing a bachelor of arts in France, but will soon change to a Computer Science Major, i love programming and have start my adventure in the front end development but plan to work in the cybersecurity department.
 
 <h3> 📕 About me:</h3>
 
 - 💻 &nbsp; Learning Javascript, NodeJS, React
 - 🎨 &nbsp; studying Arts.
-- 🌐 &nbsp; My First language is Portuguese(brazilian), but i also speak fluently French, English and know the basic of Spanish
+- 🌐 &nbsp; My First language is Portuguese(brazilian), but i also speak fluently French, English and know the basics of Spanish
 
   🔧 Skills
 
