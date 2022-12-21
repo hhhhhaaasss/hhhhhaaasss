@@ -2,7 +2,7 @@
 
 <h3> 📕 About me:</h3>
 
-- 💻 &nbsp; Learning Javascript, NodeJS, React
+- 💻 &nbsp; Learning Javascript, NodeJS, React, C++, Python
 - 🎨 &nbsp; studying Arts.
 - 🌐 &nbsp; My First language is Portuguese(brazilian), but i also speak fluently French, English and know the basics of Spanish
 
