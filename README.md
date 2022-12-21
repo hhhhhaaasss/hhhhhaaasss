@@ -6,7 +6,7 @@
 - 🎨 &nbsp; studying Arts.
 - 🌐 &nbsp; My First language is Portuguese(brazilian), but i also speak fluently French, English and know the basics of Spanish
 
-  🔧 Skills
+<h3> 🔧 Skills:</h3>
 
 - <img src="/img/ps.png" alt="PS from Freepik" style="width: 50px;"/>
 - <img src="/img/ai.png" alt="AI from Freepik" style="width: 50px;"/>
