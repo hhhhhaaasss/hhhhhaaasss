@@ -8,8 +8,7 @@
 
 <h3> 🔧 Skills:</h3>
 
-- <img src="/img/ps.png" alt="PS from Freepik" style="width: 50px;"/>
-- <img src="/img/ai.png" alt="AI from Freepik" style="width: 50px;"/>
+- <img src="/img/ps.png" alt="PS from Freepik" style="width: 50px;"/> <img src="/img/ai.png" alt="AI from Freepik" style="width: 50px;"/>
 - <img src="/img/pr.png" alt="PR from Freepik" style="width: 50px;"/>
 - <img src="/img/ae.png" alt="AE from Freepik" style="width: 50px;"/>
 - <img src="/img/id.png" alt="ID from Freepik" style="width: 50px;"/>
