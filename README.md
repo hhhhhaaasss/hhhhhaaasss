@@ -26,7 +26,7 @@
 
 <h3> 🌎 Where to find me:</h3>
 
-- 🔗 <a href="#">My Website</a>
+- 🔗 <a href="#">Portfolio</a>
 
 - 🔗 <a href="https://discord.com/users/218303368756592642">Discord</a>
 
