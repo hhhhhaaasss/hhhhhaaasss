@@ -22,6 +22,8 @@
 
 - 🎬 Watch Movies/Series
 
+- 🚗 Car modification and Drift
+
 <h3> 🌎 Where to find me:</h3>
 
 - 🔗 <a href="#">My Website</a>
@@ -29,3 +31,9 @@
 - 🔗 <a href="https://discord.com/users/218303368756592642">Discord</a>
 
 - 🔗 <a href="https://www.linkedin.com/in/caio-romano-castro-5b3499240/">Linkendin</a>
+
+<h3> 📟 Contact Information: </h3>
+
+- 📧 caioromanoc@hotmail.com
+
+- 📲 +33 7 71 78 05 97
