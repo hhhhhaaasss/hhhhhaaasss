@@ -1,4 +1,4 @@
-😁Hello my name is Caio Romano Castro, im currently doing a bachelor of arts in France, but will soon change to a Computer Science Major, I love programming and have start my adventure in the front end development but plan to work in the cybersecurity department.
+😁Hello my name is Caio Romano Castro, i am currently doing a bachelor of arts in France, but will soon change to a Computer Science Major, I love programming and have start my adventure in the front end development but plan to work in the cybersecurity department.
 
 <h3> 📕 About me:</h3>
 
