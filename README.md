@@ -1,4 +1,4 @@
-😁Hello my name is Caio Romano Castro, i am currently doing a bachelor of arts in France, but will soon change to a Computer Science Major, I love programming and have start my adventure in the front end development but plan to work in the cybersecurity department.
+😁Welcome to my GitHub profile! My name is Caio Romano Castro and I am currently pursuing a Bachelor of Arts degree, but will sonn change to a Computer Science Major. I have always had a passion for programming and have recently begun my journey in front-end development and cybersecurity. I am excited to share my projects and learn from the community.
 
 <h3> 📕 About me:</h3>
 
