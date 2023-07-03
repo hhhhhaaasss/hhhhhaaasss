@@ -1,4 +1,4 @@
-😁Welcome to my GitHub profile! My name is Caio Romano Castro and I finished my Digital Arts Degree, but will sonn change to a Computer Science Major. I have always had a passion for programming and have recently begun my journey in front-end development and cybersecurity. I am excited to share my projects and learn from the community.
+😁Welcome to my GitHub profile! My name is Caio Romano Castro and I finished my Digital Arts Degree, but will soon change to a Computer Science Major. I have always had a passion for programming and have recently begun my journey in front-end development and cybersecurity. I am excited to share my projects and learn from the community.
 
 <h3> 📕 About me:</h3>
 
