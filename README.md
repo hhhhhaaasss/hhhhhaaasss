@@ -14,7 +14,7 @@
 
 - 📂 Coding Front end
 
-- 🔓 Learning Linux
+- 🐧 Learning Linux
 
 - 🎸 Playing Guitar
 
