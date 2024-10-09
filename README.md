@@ -1,10 +1,10 @@
-😁Welcome to my GitHub profile! My name is Caio Romano Castro and I am a first year Computer Science. I have always had a passion for programming and have recently begun my journey in front-end development and cybersecurity. I am excited to share my projects and learn from the community.
+😁Welcome to my GitHub profile! My name is Caio Romano Castro and I am a first year Computer Science. I have always had a passion for programming and have recently begun my journey in front-end development and I am also learning Java OOP. I am excited to share my projects and learn from the community.
 
 <h3> 📕 About me:</h3>
 
-- 💻 &nbsp; Learning Javascript, Java
+- 💻 &nbsp; Learning Javascript and JavaScript Frameworks such as React, Vue and Angular and I am also learning Java
 - 🎨 &nbsp; studied Arts.
-- 🌐 &nbsp; My First language is Portuguese(brazilian), but i also speak fluently French, English and know the basics of Spanish
+- 🌐 &nbsp; My First language is Portuguese(brazilian), but I also speak fluently French, English and know the basics of Spanish
 
 <h3> 🔧 Skills:</h3>
 
