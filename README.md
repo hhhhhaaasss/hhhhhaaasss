@@ -1,4 +1,4 @@
-😁Welcome to my GitHub profile! My name is Caio Romano Castro and I am a first year Computer Science. I have always had a passion for programming and have recently begun my journey in front-end development and I am also learning Java OOP and How to use linux. I am excited to share my projects and learn from the community.
+😁Welcome to my GitHub profile! My name is Caio Romano Castro and I am a first year Computer Science. I have always had a passion for programming and have recently begun my journey in front-end development and I am also learning Java OOP and how to use linux. I am excited to share my projects and learn from the community.
 
 <h3> 📕 About me:</h3>
 
